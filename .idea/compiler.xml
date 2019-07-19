@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gamll-realtime-mock" />
+        <module name="gmall-realtime-commons" />
+        <module name="gmall-realtime-logger" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="gmall-realtime-common" target="1.8" />
+      <module name="gmallrealtimecommon" target="1.8" />
+      <module name="Test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
