@@ -13,7 +13,7 @@
         <module>gamll-realtime-mock</module>
         <module>gmall-realtime-commons</module>
 
-
+        <module>gmall-realtime-logger</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -1,4 +1,4 @@
-package util;
+package yang.util;
 
 public class RanOpt<T> {
 	T value;

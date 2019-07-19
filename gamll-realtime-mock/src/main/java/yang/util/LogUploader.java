@@ -1,4 +1,4 @@
-package util;
+package yang.util;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.NameValuePair;

@@ -1,4 +1,4 @@
-package util;
+package yang.util;
 
 import java.util.Date;
 import java.util.Random;
