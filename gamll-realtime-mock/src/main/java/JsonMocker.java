@@ -37,8 +37,8 @@ public class JsonMocker {
 
 	RandomOptionGroup<String>  vsOptionGroup= new RandomOptionGroup(vsOpts);
 
-	RanOpt[] eventOpts= {new RanOpt("addFavor",10),new RanOpt("addComment",30),
-			new RanOpt("addCart",20), new RanOpt("clickItem",40)
+	RanOpt[] eventOpts= {new RanOpt("addFavor",10),new RanOpt("addComment",20),
+			new RanOpt("addCart",10), new RanOpt("clickItem",10),new RanOpt("coupon",55)
 	};
 
 	RandomOptionGroup<String>  eventOptionGroup= new RandomOptionGroup(eventOpts);

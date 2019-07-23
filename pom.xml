@@ -15,7 +15,9 @@
 
         <module>gmall-realtime-logger</module>
         <module>gmall-realtime-0218</module>
-
+        <module>gmall-realtime-publiseher</module>
+        <module>gmall-realtime-canal</module>
+        <module>dw-chart</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

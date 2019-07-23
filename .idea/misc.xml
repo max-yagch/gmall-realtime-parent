@@ -7,11 +7,14 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-realtime-commons/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-realtime-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-chart/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Test/pom.xml" />
+        <option value="$PROJECT_DIR$/gamll-realtime-realtime/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-realtime-common/pom.xml" />
       </set>
     </option>

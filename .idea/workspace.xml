@@ -2,59 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c0dc8b8-51c6-4de1-9cea-058276bc8a4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/JsonMocker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/JsonMocker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/LogUploader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RanOpt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RandomDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RandomNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RandomOptionGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/yang/util/LogUploader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/yang/util/RanOpt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/yang/util/RandomDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/yang/util/RandomNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/yang/util/RandomOptionGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/gamll-realtime-mock-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-commons/target/classes/yang/common/GmallConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-commons/target/gmall-realtime-commons-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/GmallRealtimeLoggerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/controller/LogJsonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/controller/LoggerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime-logger/src/test/java/yang/gmallrealtimelogger/GmallRealtimeLoggerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/gamll-realtime-mock.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/JsonMocker.java" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/LogUploader.java" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/LogUploader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/RanOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RanOpt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/RandomDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/RandomNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/RandomOptionGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomOptionGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/gmall-realtime-commons.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-realtime-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$3$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$4$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$main$3$$anonfun$apply$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$main$3$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$$anonfun$main$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/app/Dau_App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/bean/StartUpLog$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/bean/StartUpLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/util/KafkaUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/util/KafkaUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/util/PropertiesUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/util/PropertiesUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/util/RedisUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime-0218/target/classes/util/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/JsonMocker.class" beforeDir="false" afterPath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/JsonMocker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/JsonMocker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/LogUploader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RanOpt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RandomDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RandomNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/classes/util/RandomOptionGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/gamll-realtime-mock-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamll-realtime-mock/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-0218/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-realtime-0218/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/target/classes/yang/common/GmallConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-realtime-commons/target/classes/yang/common/GmallConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/target/gmall-realtime-commons-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-realtime-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,11 +60,29 @@
     <ignored path="$PROJECT_DIR$/gamll-realtime-mock/target/" />
     <ignored path="$PROJECT_DIR$/gmall-realtime-commons/target/" />
     <ignored path="$PROJECT_DIR$/gmall-realtime-logger/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-realtime-0218/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-realtime-publiseher/target/" />
+    <ignored path="$PROJECT_DIR$/dw-chart/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-realtime-canal/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -75,24 +90,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/GmallRealtimeLoggerApplication.java">
+        <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/controller/PublisherController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="166">
+              <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,31 +102,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/AlertApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/controller/LoggerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+            <state relative-caret-position="240">
+              <caret line="99" column="35" lean-forward="true" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#13#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/util/EsUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/OrderApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-223">
+              <caret line="18" column="117" selection-start-line="18" selection-start-column="117" selection-end-line="18" selection-end-column="117" />
+              <folding>
+                <element signature="e#13#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/LogUploader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+            <state relative-caret-position="-69">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomOptionGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -133,40 +155,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            <state relative-caret-position="187">
+              <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/log4j.properties">
+        <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="440">
+              <caret line="92" column="21" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/controller/LogJsonController.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="-193">
+              <caret line="115" column="28" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-realtime-commons/pom.xml">
+        <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RanOpt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -176,11 +196,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="max-yagch &lt;yagch@sina.cn&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -195,17 +221,48 @@
         <option value="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/RanOpt.java" />
         <option value="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/LogUploader.java" />
         <option value="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/JsonMocker.java" />
-        <option value="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java" />
         <option value="$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/LogJsonController.java" />
         <option value="$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/controller/LogJsonController.java" />
-        <option value="$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-realtime-commons/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-realtime-logger/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/controller/LoggerController.java" />
         <option value="$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/LogUploader.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/java/util/PropertiesUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/java/util/KafkaUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/util/RedisUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/RealtimeStartupApp.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/StartUpLog.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/Dau_App.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/mapper/DauMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/mapper/DauMapper.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/GmallRealtimePubliseherApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-canal/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/CanalClient.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/client/CanalClient.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/KafkaUtil/KafkaUtil.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/KafkaUtil/KafkaSender.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/handler/CanalHandler.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/service/PublisherService.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/service/impl/PublisherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/controller/PublisherController.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/OrderInfo.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/EventInfo.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/AlertInfo.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/OrderApp.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/mapper/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/util/EsUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/AlertApp.scala" />
+        <option value="$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java" />
       </list>
     </option>
   </component>
@@ -236,8 +293,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="23" />
+    <option name="x" value="22" />
+    <option name="y" value="28" />
     <option name="width" value="1564" />
     <option name="height" value="921" />
   </component>
@@ -251,6 +308,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,27 +316,121 @@
               <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gamll-realtime-mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gamll-realtime-mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gamll-realtime-mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gamll-realtime-mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gamll-realtime-mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-realtime-0218" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-realtime-0218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-realtime-0218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-realtime-0218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-realtime-0218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-realtime-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-realtime-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-realtime-0218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563508599947" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/mapper" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gmall-realtime-0218/src/main/scala" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/gmall-realtime-0218/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -292,13 +444,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JsonMocker (1)">
-    <configuration name="GmallRealtimeLoggerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yang.gmallrealtimelogger.GmallRealtimeLoggerApplication" />
-      <module name="gmall-realtime-logger" />
+  <component name="RunManager" selected="Application.AlertApp">
+    <configuration name="AlertApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="app.AlertApp" />
+      <module name="gmall-realtime-0218" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yang.gmallrealtimelogger.controller.*" />
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yang.canal.client.CanalClient" />
+      <module name="gmall-realtime-canal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yang.canal.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +478,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonMocker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.JsonMocker" />
-      <module name="gamll-realtime-mock" />
+    <configuration name="OrderApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="app.OrderApp" />
+      <module name="gmall-realtime-0218" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="util.*" />
+          <option name="PATTERN" value="app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,15 +491,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoggerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yang.logger.LoggerApplication" />
-      <module name="gmall-realtime-logger" />
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="gamll-realtime-realtime" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="gamll-realtime-realtime" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dw-chart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yang.logger.*" />
+          <option name="PATTERN" value="com.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.DemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -346,12 +558,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GmallRealtimePubliseherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-realtime-publiseher" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="yang.gmallrealtimepubliseher.GmallRealtimePubliseherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.JsonMocker (1)" />
-        <item itemvalue="Application.GmallRealtimeLoggerApplication" />
-        <item itemvalue="Application.LoggerApplication" />
-        <item itemvalue="Application.JsonMocker" />
+        <item itemvalue="Application.AlertApp" />
+        <item itemvalue="Spring Boot.DemoApplication" />
+        <item itemvalue="Application.OrderApp" />
+        <item itemvalue="Application.CanalClient" />
       </list>
     </recent_temporary>
   </component>
@@ -372,17 +592,46 @@
       <workItem from="1563516943268" duration="1012000" />
       <workItem from="1563518410353" duration="2605000" />
       <workItem from="1563521374019" duration="8703000" />
-      <workItem from="1563536218273" duration="3369000" />
+      <workItem from="1563536218273" duration="3687000" />
+      <workItem from="1563545329810" duration="144000" />
+      <workItem from="1563583790284" duration="2281000" />
+      <workItem from="1563590181108" duration="12778000" />
+      <workItem from="1563675670757" duration="1766000" />
+      <workItem from="1563757955948" duration="7892000" />
+      <workItem from="1563788828808" duration="9759000" />
+      <workItem from="1563842012789" duration="17219000" />
     </task>
+    <task id="LOCAL-00001" summary="gmall-nginx-kafka">
+      <created>1563541722025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563541722025</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gmall-nginx-kafka">
+      <created>1563541764674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563541764674</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gmall-nginx-kafka-redis-hbase">
+      <created>1563681818476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563681818476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20238000" />
+    <option name="totallyTimeSpent" value="72395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="23" width="1564" height="921" extended-state="0" />
+    <frame x="22" y="28" width="1564" height="921" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33796296" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -393,13 +642,13 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5723432" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3162612" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948782" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3290653" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3290653" />
@@ -407,6 +656,7 @@
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.3290653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -415,75 +665,54 @@
       <window_info anchor="right" id="Key Promoter X" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.23802164" />
       <window_info anchor="right" id="SciView" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Database" order="8" weight="0.12764551" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Maven" order="11" visible="true" weight="0.24867725" />
-      <window_info anchor="right" id="Bean Validation" order="12" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.24867725" />
+      <window_info anchor="right" id="Bean Validation" order="12" weight="0.32936507" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="gmall-nginx-kafka" />
+    <MESSAGE value="gmall-nginx-kafka-redis-hbase" />
+    <option name="LAST_COMMIT_MESSAGE" value="gmall-nginx-kafka-redis-hbase" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-common/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/logger/LoggerApplication.java" />
-    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/util/JsonMocker.java" />
-    <entry file="file://$PROJECT_DIR$/Test/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomOptionGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RanOpt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/log4j.properites" />
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3808">
           <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/GmallRealtimeLoggerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -506,53 +735,269 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/GmallRealtimeLoggerApplication.java">
+    <entry file="file://$PROJECT_DIR$/gamll-realtime-realtime/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/util/PropertiesUtil.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="119">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#14#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java">
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/util/RedisUtil.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        <state relative-caret-position="306">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publisher/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/service/impl/service/PublisherService.java" />
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/service.java" />
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/mapper/DauMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/demo/utils/GetDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-canal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/KafkaUtil/KafkaSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/demo/controller/DictController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/demo/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/mapper/DauMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/service/PublisherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/java/yang/gmallrealtimelogger/controller/LoggerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        <state relative-caret-position="485">
+          <caret line="33" column="60" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-realtime-logger/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/dw-chart/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/Dau_App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+          <folding>
+            <element signature="e#13#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/StartUpLog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/OrderInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/EventInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/bean/AlertInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/util/KafkaUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/client/CanalClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="54" column="60" selection-start-line="54" selection-start-column="60" selection-end-line="54" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-canal/src/main/java/yang/canal/handler/CanalHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/GmallRealtimePubliseherApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/resources/mapper/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/service/impl/PublisherServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-publiseher/src/main/java/yang/gmallrealtimepubliseher/controller/PublisherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -561,8 +1006,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/LogUploader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+        <state relative-caret-position="-69">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RanOpt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/yang/util/RandomOptionGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/OrderApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="18" column="117" selection-start-line="18" selection-start-column="117" selection-end-line="18" selection-end-column="117" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="92" column="21" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/util/EsUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-commons/src/main/java/yang/common/GmallConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime-0218/src/main/scala/app/AlertApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="99" column="35" lean-forward="true" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <element signature="e#13#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamll-realtime-mock/src/main/java/JsonMocker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="115" column="28" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -630,7 +1140,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>gmall-realtime-logger</last-edited>
+          <last-edited>gmall-realtime-publisher</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

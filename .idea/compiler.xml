@@ -6,15 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dw-chart" />
+        <module name="gmall-realtime-canal" />
         <module name="gamll-realtime-mock" />
-        <module name="gmall-realtime-commons" />
         <module name="gmall-realtime-logger" />
+        <module name="gmall-realtime-commons" />
+        <module name="gmall-realtime-0218" />
+        <module name="gmall-realtime-publiseher" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="gamll-realtime-realtime" target="1.8" />
       <module name="gmall-realtime-common" target="1.8" />
       <module name="gmallrealtimecommon" target="1.8" />
       <module name="Test" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmall-realtime-publiseher" options="" />
+    </option>
   </component>
 </project>
